@@ -1,0 +1,19 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+*.code-workspace
+
+## Local Files
+*.log
+appsettings.Development.json
+appsettings.Production.json
+
+## OS-specific files
+.DS_Store
+Thumbs.db
